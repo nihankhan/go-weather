@@ -1,2 +1,0 @@
-apikey := "5f1bcb7a619ad01056258319bcb94057"
-city := "Bangladesh"
